@@ -16,7 +16,7 @@
     <meta property="og:canonical" content="https://aerox4d-login.github.io/" />
     <meta property="og:author" content="https://aerox4d-login.github.io/" />
 <link  rel="canonical" href="https://aerox4d-login.github.io/" />
-<link rel="amphtml" href="https://slots.pages.dev/" />
+<link rel="amphtml" href="https://cintabunda.pages.dev/" />
 <link rel="alternate" hreflang="id-id" href="https://aerox4d-login.github.io/"/>
 <link rel="alternate" href="https://aerox4d-login.github.io/"/>
 <link rel="alternate" hreflang="id" href="https://aerox4d-login.github.io/"/>
